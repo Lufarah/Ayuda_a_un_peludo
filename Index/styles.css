@@ -1,0 +1,36 @@
+img {
+    padding-left: 10%;
+
+}
+
+body {
+
+    background-color: cadetblue;
+}
+
+
+h1 {
+    color: black;
+    text-align: center;
+    
+}
+
+p {
+    font-style: oblique;
+    color: rgb(101, 21, 133);
+    margin-left: 10px;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    text-decoration: underline;
+
+}
+
+a {
+    position: relative;
+    top: 10%;
+    left: 5%;
+    
+}
